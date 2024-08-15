@@ -1,0 +1,16 @@
+Name function: hello_world
+current date: 15/08/2024 16:48:01
+arguments: () and {}
+function return: Hello World
+Name function: summator
+current date: 15/08/2024 16:48:01
+arguments: (2, 2) and {}
+function return: 4
+Name function: div
+current date: 15/08/2024 16:48:01
+arguments: (6, 2) and {}
+function return: 3.0
+Name function: summator
+current date: 15/08/2024 16:48:01
+arguments: (4.3,) and {'b': 2.2}
+function return: 6.5
